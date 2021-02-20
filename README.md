@@ -6,4 +6,4 @@
 
 - My Porject
 
-[EMBED THE LINK](
+[First try](https://junjun-01.github.io/first-try/)
