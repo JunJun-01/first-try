@@ -6,4 +6,5 @@
 
 - My Porject
 
-[First try](https://junjun-01.github.io/first-try/)
+[Click here to see my first try to Embed link](https://junjun-01.github.io/first-try/)
+![First Image embed]
